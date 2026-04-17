@@ -137,7 +137,7 @@ pip install vecstack scikit-learn pandas numpy
 ## Author
 
 Santhosh Surendranath \
-Data Scientist  \
+Data Scientist  
 
 ---
 
